@@ -1,7 +1,6 @@
 # takaezu
 **Project statement**
-
-I'm interested in the multi-threaded fluidity in Takaezu's work's progression throughout her career. 
+- [ ] 
 
 **Chronology** 
 - [Michael Rosenfeld](https://www.michaelrosenfeldart.com/artists/toshiko-takaezu-1922-2011) 1960-1994, 3x
