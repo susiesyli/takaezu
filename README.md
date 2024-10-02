@@ -1,5 +1,6 @@
 # takaezu
 **Project statement**
+
 I'm interested in the multi-threaded fluidity in Takaezu's work's progression throughout her career. 
 
 **Chronology** 
