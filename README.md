@@ -1,5 +1,5 @@
-# takaezu
-## Project statement
+# Cosmic Silence of Toshiko Takaezu
+## Project Statement
 This project is a data-driven visualization that traces the multidimensional flow and evolution of Toshiko Takaezu’s artistic style over 5 decades, from 1950s to 2000s. Known for her exploration of interiority and the hidden worlds encased within her closed-form ceramics, Takaezu’s work evokes a sense of mystery, silence, and cosmic depth—each piece a universe unto itself.
 
 Reflecting her unique practice of not dating her works, often noting only the decade in which they were created, this timeline encourages viewers to experience her art through the lens of artistic evolution rather than a linear chronology. In this visualization, each time period becomes a constellation, with clusters of planets symbolizing the diverse and evolving body of work she produced. These planets, distinguished by size, color, shape, and brightness, encode the characteristics of her creations: different mediums, scales, and the intricate themes inherent within her enclosed forms.
