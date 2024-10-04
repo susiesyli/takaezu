@@ -10,7 +10,7 @@ By visualizing the constellations of her work across time, this project captures
 
 
 ## How To Read 
-- **Medium**: ceramic, sculpture, installation, etc.
+- **Medium**: ceramic, painting, weaving, bronzes
     - Materials: primary materials used (e.g., clay types, glazes).
 - **Size**: dimensions or scale of the works
 - **Theme**: Star series, trees, moons, closed-forms, utilitarian 
