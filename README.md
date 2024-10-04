@@ -33,9 +33,8 @@
    - **Connecting Brightness to Mediums:** Another option is to associate brightness with medium types. For example, ceramics (which she is most famous for) might generally be brighter, while her experiments with other mediums like weaving or bronze could be dimmer, reflecting the relative focus of her artistic journey.
 
 ### 5. **Cosmic Atmosphere:**
-   - You could even use faint, barely visible "stardust" around the clusters to indicate a body of works that share similar themes or techniques. Brighter clusters would have a denser, glowing stardust field, while dimmer ones would have more subtle, sparse stardust.
+   -faint "stardust" around the clusters to indicate a body of works that share similar themes or techniques. Brighter clusters would have a denser, glowing stardust field, while dimmer ones would have more subtle, sparse stardust.
 
-This brightness dynamic can bring a lot of dimension to the visualization and help guide the viewer’s attention in a really organic way. Would you like to dig into specific tools or methods to make this happen, such as data visualization software, coding languages (like D3.js, Processing), or graphic design programs (like Adobe Illustrator)?'
 
 
 
