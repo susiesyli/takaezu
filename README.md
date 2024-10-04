@@ -12,8 +12,8 @@ By visualizing the constellations of her work across time, this project captures
 ## How To Read 
 - **Medium**: ceramic, sculpture, installation, etc.
     - Materials: primary materials used (e.g., clay types, glazes).
-- **Size**: Record dimensions or scale of the works.
-- **Technique**: Detail any specific techniques used (e.g., hand-built, wheel-thrown, rattle).
+- **Size**: dimensions or scale of the works
+- **Theme**: Star series, trees, moons, closed-forms, utilitarian 
 
 - cultural reference/influence: hawaii, japan, or both 
 
