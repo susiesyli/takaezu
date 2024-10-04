@@ -10,6 +10,16 @@ By visualizing the constellations of her work across time, this project captures
 
 At its core, this project encapsulates the movement of Takaezu’s art over time, inviting viewers to engage with the hidden worlds within her ceramics and contemplate the silent, cosmic flow that guided her artistic evolution.
 
+## How To Read 
+- **Medium**: ceramic, sculpture, installation, etc.
+    - Materials: primary materials used (e.g., clay types, glazes).
+- **Size**: Record dimensions or scale of the works.
+- **Technique**: Detail any specific techniques used (e.g., hand-built, wheel-thrown, rattle).
+
+- cultural reference/influence: hawaii, japan, or both 
+
+
+
 
 ## Visual Reference
 ##### cosmic 
@@ -50,17 +60,3 @@ At its core, this project encapsulates the movement of Takaezu’s art over time
 - Takaezu Art Foundation website for database
 - [Michael Rosenfeld](https://www.michaelrosenfeldart.com/artists/toshiko-takaezu-1922-2011) 1960-1994, 3x
 
-
-**Features**
-- **Medium**: ceramic, sculpture, installation, etc.
-    - Materials: primary materials used (e.g., clay types, glazes).
-- **Size**: Record dimensions or scale of the works.
-- **Technique**: Detail any specific techniques used (e.g., hand-built, wheel-thrown, rattle).
-
-- cultural: hawaii, japan, or both 
-
-- Color Palette: predominant colors used in the works.
-- Cultural References: Identify any specific cultural or historical references.
-- Influence: Note any specific influences or inspirations Takaezu has cited.
-- ~~Public Reception: If available, collect data on reviews or critical reception.~~
-- ~~Exhibition History: Document notable exhibitions where the works were displayed.~~
