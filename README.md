@@ -10,9 +10,8 @@ By visualizing the constellations of her work across time, this project captures
 
 At its core, this project encapsulates the movement of Takaezu’s art over time, inviting viewers to engage with the hidden worlds within her ceramics and contemplate the silent, cosmic flow that guided her artistic evolution.
 
-## NOTES 
 
-### Visual Reference
+## Visual Reference
 ##### cosmic 
 - [GSAPP TERRA(AIR)FORMA](https://www.new-territories.com/blog/gsapp2011/?page_id=36#more-36)
 - [design-milk working w spiders](https://design-milk.com/working-spiders-tomas-saraceno/?epik=dj0yJnU9X0huVGpwc3JqaGJOSlhGemJOUXl1OGxtR0swOEw2YS0mcD0wJm49Q3ZqZWFrVXBHNGdndWpRMy0tRmR5dyZ0PUFBQUFBR2JfV3JZ)
@@ -47,7 +46,7 @@ At its core, this project encapsulates the movement of Takaezu’s art over time
 
 
 
-## **Chronology** 
+## Chronology
 - Takaezu Art Foundation website for database
 - [Michael Rosenfeld](https://www.michaelrosenfeldart.com/artists/toshiko-takaezu-1922-2011) 1960-1994, 3x
 
