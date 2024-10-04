@@ -2,7 +2,6 @@
 - [ ] **Project statement**
 
 ### NOTES 
-I'm so glad you love the brightness idea! 🌟 It can add a lot of subtle depth to the visualization by allowing you to convey the significance or prominence of each work in a very visual, intuitive way. Here are some ways to push that brightness concept further:
 
 ### 1. **Varying Levels of Brightness:**
    - **Brighter Stars for Iconic Works:** Works that were more celebrated, exhibited frequently, or well-documented can shine brighter. They could have a glow effect that makes them appear more "radiant" compared to others. 
