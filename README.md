@@ -38,8 +38,10 @@
 
 
 
-**Chronology** 
+## **Chronology** 
+- Takaezu Art Foundation website for database
 - [Michael Rosenfeld](https://www.michaelrosenfeldart.com/artists/toshiko-takaezu-1922-2011) 1960-1994, 3x
+
 
 **Features**
 - **Medium**: ceramic, sculpture, installation, etc.
