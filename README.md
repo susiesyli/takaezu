@@ -1,7 +1,10 @@
 # takaezu
 - [ ] **Project statement**
 
-### NOTES 
+## NOTES 
+
+### Visual Reference
+- [GSAPP TERRA(AIR)FORMA](https://www.new-territories.com/blog/gsapp2011/?page_id=36#more-36)
 
 ### 1. **Varying Levels of Brightness:**
    - **Brighter Stars for Iconic Works:** Works that were more celebrated, exhibited frequently, or well-documented can shine brighter. They could have a glow effect that makes them appear more "radiant" compared to others. 
@@ -25,7 +28,9 @@
 ### 5. **Cosmic Atmosphere:**
    - You could even use faint, barely visible "stardust" around the clusters to indicate a body of works that share similar themes or techniques. Brighter clusters would have a denser, glowing stardust field, while dimmer ones would have more subtle, sparse stardust.
 
-This brightness dynamic can bring a lot of dimension to the visualization and help guide the viewer’s attention in a really organic way. Would you like to dig into specific tools or methods to make this happen, such as data visualization software, coding languages (like D3.js, Processing), or graphic design programs (like Adobe Illustrator)?
+This brightness dynamic can bring a lot of dimension to the visualization and help guide the viewer’s attention in a really organic way. Would you like to dig into specific tools or methods to make this happen, such as data visualization software, coding languages (like D3.js, Processing), or graphic design programs (like Adobe Illustrator)?'
+
+
 
 **Chronology** 
 - [Michael Rosenfeld](https://www.michaelrosenfeldart.com/artists/toshiko-takaezu-1922-2011) 1960-1994, 3x
