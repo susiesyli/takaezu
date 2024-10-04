@@ -4,7 +4,11 @@
 ## NOTES 
 
 ### Visual Reference
+##### cosmic 
 - [GSAPP TERRA(AIR)FORMA](https://www.new-territories.com/blog/gsapp2011/?page_id=36#more-36)
+
+##### next step spatial shapes 
+- [](https://generativedesigns.tumblr.com/post/67235366518/generative-design-functions-as-image-recource)
 
 ### 1. **Varying Levels of Brightness:**
    - **Brighter Stars for Iconic Works:** Works that were more celebrated, exhibited frequently, or well-documented can shine brighter. They could have a glow effect that makes them appear more "radiant" compared to others. 
