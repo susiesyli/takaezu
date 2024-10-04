@@ -9,7 +9,7 @@
 - [design-milk working w spiders](https://design-milk.com/working-spiders-tomas-saraceno/?epik=dj0yJnU9X0huVGpwc3JqaGJOSlhGemJOUXl1OGxtR0swOEw2YS0mcD0wJm49Q3ZqZWFrVXBHNGdndWpRMy0tRmR5dyZ0PUFBQUFBR2JfV3JZ)
 
 ##### next step spatial shapes 
-- [](https://generativedesigns.tumblr.com/post/67235366518/generative-design-functions-as-image-recource)
+- [building - spiral up](https://generativedesigns.tumblr.com/post/67235366518/generative-design-functions-as-image-recource)
 
 ## Notes/planning for interactive component
 
