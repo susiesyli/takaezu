@@ -54,8 +54,8 @@ By visualizing the constellations of her work across time, this project captures
 
 
 
-
-## Chronology
+## Database sources 
+### Chronology
 - Takaezu Art Foundation website for database
 - [Michael Rosenfeld](https://www.michaelrosenfeldart.com/artists/toshiko-takaezu-1922-2011) 1960-1994, 3x
 
