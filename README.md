@@ -1,5 +1,10 @@
 # takaezu
-- [ ] **Project statement**
+### Project statement
+This project is a data-driven visualization that traces the multidimensional flow and evolution of Toshiko Takaezu’s artistic style over 5 decades, from 1950s to 2000s. Known for her exploration of interiority and the hidden worlds encased within her closed-form ceramics, Takaezu’s work evokes a sense of mystery, silence, and cosmic depth—each piece a universe unto itself.
+Reflecting her unique practice of not dating her works, often noting only the decade in which they were created, this timeline encourages viewers to experience her art through the lens of artistic evolution rather than a linear chronology. In this visualization, each time period becomes a constellation, with clusters of planets symbolizing the diverse and evolving body of work she produced. These planets, distinguished by size, color, shape, and brightness, encode the characteristics of her creations: different mediums, scales, and the intricate themes inherent within her enclosed forms.
+ The use of color, size, and brightness encodes the diversity of her works: from the delicate table-top ceramics to the monumental sculptures, from bronze to weaving and painting. As the viewer moves through this visual timeline, the evolution of her artistry becomes evident—not only in the growing complexity and form of the works but in the deepening of the hidden, secret worlds she crafted within each piece.
+By visualizing the constellations of her work across time, this project captures the fluid progression of Takaezu’s artistic journey—her shift between materials, her experimentation with form, and the refinement of her expression of interiority. This celestial metaphor serves as a reflection of the enclosed, silent worlds within her pieces, offering a view into the artist’s expanding universe and her continuous pursuit of expressing what lies beyond the surface.
+At its core, this project encapsulates the movement of Takaezu’s art over time, inviting viewers to engage with the hidden worlds within her ceramics and contemplate the silent, cosmic flow that guided her artistic evolution.
 
 ## NOTES 
 
