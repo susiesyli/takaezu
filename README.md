@@ -8,7 +8,6 @@ Reflecting her unique practice of not dating her works, often noting only the de
  
 By visualizing the constellations of her work across time, this project captures the fluid progression of Takaezu’s artistic journey—her shift between materials, her experimentation with form, and the refinement of her expression of interiority. This celestial metaphor serves as a reflection of the enclosed, silent worlds within her pieces, offering a view into the artist’s expanding universe and her continuous pursuit of expressing what lies beyond the surface.
 
-At its core, this project encapsulates the movement of Takaezu’s art over time, inviting viewers to engage with the hidden worlds within her ceramics and contemplate the silent, cosmic flow that guided her artistic evolution.
 
 ## How To Read 
 - **Medium**: ceramic, sculpture, installation, etc.
